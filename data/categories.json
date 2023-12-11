@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name":"Meva"
+    },
+    {
+        "id":2,
+        "name":"Ichimlik"
+    }, 
+    {
+        "id":3,
+        "name":"FastFood"
+    },
+    {
+        "id":4,
+        "name":"Go'sht"
+    },
+    {
+        "id":5,
+        "name":"Shirinlik"
+    }
+]

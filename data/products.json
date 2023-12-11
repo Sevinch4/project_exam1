@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "name":"Olma",
+        "price":5000,
+        "category_id":1
+    },
+    {
+        "id":2,
+        "name":"Coca Cola",
+        "price":10000,
+        "category_id":2
+    },
+    {
+        "id":3,
+        "name":"Lavash",
+        "price":20000,
+        "category_id":3
+    },
+    {
+        "id":4,
+        "name":"Sok",
+        "price":11000,
+        "category_id":2
+    },
+    {
+        "id":5,
+        "name":"Sut",
+        "price":8000,
+        "category_id":2
+    },
+    {
+        "id":6,
+        "name":"Mol go'shti",
+        "price":75000,
+        "category_id":4
+    },
+    {
+        "id":7,
+        "name":"Baliq",
+        "price":40000,
+        "category_id":4
+    },
+    {
+        "id":8,
+        "name":"Muzqaymoq Snikers",
+        "price":14000,
+        "category_id":5
+    },
+    {
+        "id":9,
+        "name":"Burger",
+        "price":18000,
+        "category_id":3
+    }
+]
